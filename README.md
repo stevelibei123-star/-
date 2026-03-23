@@ -18,7 +18,7 @@
 * **分阶段增长模型**：量化拆解 3个月（留存修复）、6个月（用户召回）、12个月（破圈拉新）的阶梯式运营 KPI。
 * **社群与内容裂变**：结合短视频时代特征，设计“碎片化叙事”与 UGC 达人裂变机制，将剧情转化为玩家的社交货币。
 
-🔗 **[点击这里阅读 / 下载我的完整 PDF 方案https://docs.qq.com/pdf/DZUtmRUJaR0Z3cHJ6]** 
+ **[点击这里阅读 / 下载我的完整 PDF 方案https://docs.qq.com/pdf/DZUtmRUJaR0Z3cHJ6]** 
 
 ---
 
@@ -30,8 +30,8 @@
 * **智能异动告警**：设定业务阈值（如核心指标环比下跌超 10%），触发 🚨 红色预警，辅助运营快速定位异常点（如节假日回落或服务器宕机）。
 * **一键生成结构化简报**：设计高阶 Prompt，秒级输出企业级 Markdown 格式数据看板与次日运营动作建议。
 
-* **[点击查看 AI 工作流自动生成的日报https://github.com/stevelibei123-star/-/blob/main/%E6%AF%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%BF%90%E8%90%A5%E7%AE%80%E6%8A%A5.pdf]**
-* **[以及AI工作流的数据网站https://udify.app/workflow/yCjamIJPMqeymNd0]** 
+ **[点击查看 AI 工作流自动生成的日报https://github.com/stevelibei123-star/-/blob/main/%E6%AF%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%BF%90%E8%90%A5%E7%AE%80%E6%8A%A5.pdf]**
+ **[以及AI工作流的数据网站https://udify.app/workflow/yCjamIJPMqeymNd0]** 
 
 ---
 
